@@ -60,6 +60,7 @@ hr {
   background-color: rgb(173, 8, 250);
   /* padding: 1rem; */
   border: 1px solid black;
-  margin: 1rem;
+  margin: 1rem auto;
   padding: 1rem 1rem 1.5rem 1rem;
+  width: 30%;
 }
